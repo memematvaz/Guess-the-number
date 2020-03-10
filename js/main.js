@@ -39,16 +39,16 @@ function compareRandomNumber() {
 
 function increaseAttemp() {
 
-  let attempsQuantity = parseInt(attemps.innerHTML);
-  attempsQuantity = attemps.value + 1;
-  attemps.innerHTML = productQuantity;
+  
+  
+  
+  let attempsQuantity = parseInt(attemps.innerHTML) + 1;
+  attemps.innerHTML = attempsQuantity ;
 
 
 
 
 }
-
-
 
 
 
