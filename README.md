@@ -41,4 +41,4 @@ Escribe un número en el buscador y sigue las indicaciones del texto para averig
 
 Para jugar click aquí!
 
-(http://beta.adalab.es/modulo-2-evaluacion-intermedia-memematvaz/)
+(https://memematvaz.github.io/Guess-the-number/)
